@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Win OS files
+Desktop.ini
+Thumbs.db
+
+# Mac OS files
+.DS_Store
